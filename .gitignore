@@ -1,6 +1,5 @@
 /.idea/
 /.iml
-/out
 
 ### IntelliJ IDEA ###
 !**/src/main/**/out/
@@ -30,5 +29,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/out/
 /homework_1.iml
+/out/
